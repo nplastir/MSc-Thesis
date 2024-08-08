@@ -1,0 +1,1 @@
+This repository contains the Master Thesis of Nikos Plastiras with title: "Optimization of tt+bb background simulation in the search for c-quark Yukawa coupling through the ttH(bb/cc) process in the CMS experiment at the LHC"
